@@ -1,0 +1,25 @@
+{
+  "name": "mercado-pago",
+  "version": "1.0.0",
+  "description": "Implements payment with Mercado Pago in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artreysan/mercado-pago.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artreysan/mercado-pago/issues"
+  },
+  "homepage": "https://github.com/artreysan/mercado-pago#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
